@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 description = "BeagleEditor tools, all in one place!"
 keywords = ["tool", "toolchain", "beagleeditor", "cli"]
+repository = "https://github.com/beaglesoftware/betl"
 
 [dependencies]
 clap = { version = "4.5.20", features = ["derive"] }
