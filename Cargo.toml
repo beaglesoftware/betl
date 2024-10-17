@@ -2,6 +2,9 @@
 name = "betl"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "BeagleEditor tools, all in one place!"
+keywords = ["tool", "toolchain", "beagleeditor", "cli"]
 
 [dependencies]
 clap = { version = "4.5.20", features = ["derive"] }
