@@ -1,4 +1,4 @@
-# BeagleEditor Toolchain
+# BeagleEditor Toolkit
 A CLI app to manage BeagleEditor
 ## Installation
 ### Cargo
