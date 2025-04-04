@@ -8,9 +8,8 @@
 
 version: 2
 
-before:
-  hooks:
-    
+# before:
+#   hooks:
 
 builds:
   - builder: rust
@@ -20,7 +19,6 @@ builds:
       - x86_64-apple-darwin
       - aarch64-apple-darwin
       - x86_64-pc-windows-gnu
-      - aarch64-pc-windows-gnu
 
 archives:
   - format: tar.gz
